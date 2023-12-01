@@ -1,4 +1,3 @@
-// Good Luck 💪🏾
 function getFirstName (Names) {
     for(i=0; i<Names.length; i++) {
       console.log(Names[i][0])
